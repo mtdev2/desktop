@@ -424,10 +424,10 @@
   resolved "https://registry.yarnpkg.com/@types/loglevel/-/loglevel-1.5.3.tgz#adfce55383edc5998a2170ad581b3e23d6adb5b8"
   integrity sha512-TzzIZihV+y9kxSg5xJMkyIkaoGkXi50isZTtGHObNHRqAAwjGNjSCNPI7AUAv0tZUKTq9f2cdkCUd/2JVZUTrA==
 
-"@types/memoize-one@^3.1.1":
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/@types/memoize-one/-/memoize-one-3.1.1.tgz#0e21a1b91dc031fb59c1e1657b807ca9aec77475"
-  integrity sha512-VlMu4eWNfQ8CDfhHYe8P/RgBq8vgce8LMo4vVKASPPAv+TE9SCR1bH6pA4nHEKNUQz1L/PIdElU2vqA2m366Dw==
+"@types/memoize-one@^3.1.2":
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/@types/memoize-one/-/memoize-one-3.1.2.tgz#0c6e21d603b83e6fed22945129d264a236d48979"
+  integrity sha512-A5ydEHaD2xdUbrXlAjF2TifOkYq7TJXU+5t7rLqBGfispKdJJoZnWwPQPyvjh0exxGTTO1ugLB+5jL9P3DQh5w==
 
 "@types/memory-fs@*":
   version "0.3.0"
