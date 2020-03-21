@@ -376,12 +376,13 @@
     "@types/relateurl" "*"
     "@types/uglify-js" "*"
 
-"@types/html-webpack-plugin@^2.30.3":
-  version "2.30.3"
-  resolved "https://registry.yarnpkg.com/@types/html-webpack-plugin/-/html-webpack-plugin-2.30.3.tgz#848baba8e35010c6ef6d36b04174820b9d884583"
-  integrity sha512-JV2rtu6O+PkMj30VuImbtKPgFyn1BupD3iXd/AExopv9Hets1iKE9XkFo9YnWjENllbUfNq9wRJqUmEgon5R6w==
+"@types/html-webpack-plugin@^2.30.4":
+  version "2.30.4"
+  resolved "https://registry.yarnpkg.com/@types/html-webpack-plugin/-/html-webpack-plugin-2.30.4.tgz#65219d1a9b6ad4027100107d3dd08583a890b4b1"
+  integrity sha512-jq9jZdJAsJPBWitnlUPeWYJ01Aaekiq0/7bAihZ08lnBqTHVUvR+uuG+3FuUjZ2FCQR7PsmmOJpFF6/DD2Ngtg==
   dependencies:
     "@types/html-minifier" "*"
+    "@types/tapable" "*"
     "@types/webpack" "*"
 
 "@types/istanbul-lib-coverage@*", "@types/istanbul-lib-coverage@^2.0.0":
