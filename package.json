@@ -135,8 +135,13 @@
     "@types/fs-extra": "^7.0.0",
     "@types/fuzzaldrin-plus": "^0.0.1",
     "@types/glob": "^5.0.35",
+
+    "@types/html-webpack-plugin": "^2.30.4",
+    "@types/jest": "^23.3.1",
+
     "@types/html-webpack-plugin": "^2.30.3",
     "@types/jest": "^23.3.14",
+depfu/update/yarn/@types/html-webpack-plugin-2.30.4
     "@types/keytar": "^4.0.0",
     "@types/legal-eagle": "^0.15.0",
     "@types/memoize-one": "^3.1.2",
