@@ -135,11 +135,16 @@
     "@types/fs-extra": "^7.0.0",
     "@types/fuzzaldrin-plus": "^0.0.1",
     "@types/glob": "^5.0.35",
+
     "@types/html-webpack-plugin": "^2.30.4",
     "@types/jest": "^23.3.1",
+
+    "@types/html-webpack-plugin": "^2.30.3",
+    "@types/jest": "^23.3.14",
+depfu/update/yarn/@types/html-webpack-plugin-2.30.4
     "@types/keytar": "^4.0.0",
     "@types/legal-eagle": "^0.15.0",
-    "@types/memoize-one": "^3.1.1",
+    "@types/memoize-one": "^3.1.2",
     "@types/mini-css-extract-plugin": "^0.2.0",
     "@types/mri": "^1.1.0",
     "@types/node": "10.12.18",
@@ -156,8 +161,13 @@
     "@types/to-camel-case": "^1.0.0",
     "@types/ua-parser-js": "^0.7.30",
     "@types/untildify": "^3.0.0",
-    "@types/uuid": "^3.4.0",
+
+    "@types/uuid": "^3.4.8",
     "@types/webdriverio": "^4.13.0",
+
+    "@types/uuid": "^3.4.0",
+    "@types/webdriverio": "^4.13.3",
+depfu/update/yarn/@types/uuid-3.4.8
     "@types/webpack": "^4.4.0",
     "@types/webpack-bundle-analyzer": "^2.9.2",
     "@types/webpack-dev-middleware": "^2.0.1",
