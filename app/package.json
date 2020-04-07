@@ -19,9 +19,15 @@
   "dependencies": {
     "app-path": "^2.2.0",
     "byline": "^5.0.0",
+
+    "chalk": "^2.3.0",
+    "classnames": "^2.2.6",
+    "codemirror": "^5.49.2",
+
     "chalk": "^2.4.2",
     "classnames": "^2.2.5",
     "codemirror": "^5.52.2",
+depfu/update/app/yarn/classnames-2.2.6
     "codemirror-mode-elixir": "^1.1.2",
     "compare-versions": "^3.6.0",
     "deep-equal": "^1.1.1",
