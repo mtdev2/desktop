@@ -19,7 +19,7 @@
   "dependencies": {
     "app-path": "^2.2.0",
     "byline": "^5.0.0",
-    "chalk": "^2.3.0",
+    "chalk": "^2.4.2",
     "classnames": "^2.2.5",
     "codemirror": "^5.49.2",
     "codemirror-mode-elixir": "^1.1.2",
